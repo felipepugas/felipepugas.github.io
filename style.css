@@ -1,0 +1,25 @@
+body {
+    background-color:#FDD5B1;
+    font-family: Neucha;
+    
+}
+
+#profiletitle {
+    text-align: center;
+}
+
+.profileimage {
+    border-radius: 100%;
+    border-style: solid;
+    border-color: black;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+    border: none;
+}
+
+a {
+    color: black;
+}
